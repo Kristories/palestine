@@ -1,0 +1,19 @@
+{
+  "name": "palestine",
+  "version": "0.0.0",
+  "description": "Palestine Will Be Free",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kristories/palestine.git"
+  },
+  "keywords": [
+    "palestine",
+    "free"
+  ],
+  "author": "Wahyu Kristianto <w.kristories@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kristories/palestine/issues"
+  },
+  "homepage": "https://github.com/Kristories/palestine#readme"
+}
