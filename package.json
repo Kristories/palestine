@@ -12,7 +12,6 @@
   ],
   "author": "Wahyu Kristianto <w.kristories@gmail.com>",
   "license": "MIT",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "bugs": {
     "url": "https://github.com/Kristories/palestine/issues"
   },
